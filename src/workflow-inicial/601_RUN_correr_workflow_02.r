@@ -16,5 +16,5 @@ source("~/dm2023b/src/workflow-inicial/631_FE_historia_01.r")
 source("~/dm2023b/src/workflow-inicial/641_TS_training_strategy_02.r")
 
 # ultimos pasos, muy lentos
-source("~/dm2023b/src/workflow-inicial/651_HT_lightgbm_01.r")
+source("~/dm2023b/src/workflow-inicial/651_HT_lightgbm_02.r")
 source("~/dm2023b/src/workflow-inicial/661_ZZ_final_02.r")
