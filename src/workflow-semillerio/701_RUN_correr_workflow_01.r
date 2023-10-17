@@ -21,4 +21,6 @@ source("~/dm2023b/src/workflow-inicial/661_ZZ_final_04.r")
 
 # Semillerío
 source("~/dm2023b/src/workflow-semillerio/795_ZZ_final_semillerio_01.r")
+source("~/dm2023b/src/workflow-semillerio/795_ZZ_final_semillerio_02.r")
+
 source("~/dm2023b/src/workflow-semillerio/796_HB_semillerios_hibridacion_01.r")
